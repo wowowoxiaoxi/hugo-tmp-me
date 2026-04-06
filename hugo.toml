@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en'
+baseURL = "https://wowowoxiaoxi.github.io/hugo-tmp-me/"
+languageCode = "zh-CN"
 title = 'My New Hugo Site'
 theme = 'hugo-theme-reimu'
 
